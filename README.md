@@ -1,4 +1,4 @@
-Robotics software engineer in Tokyo, building autonomy software for autonomous forklifts and mobile robots.
+Robotics software engineer, building autonomy software for autonomous forklifts and mobile robots.
 
 **Reach me**
 
